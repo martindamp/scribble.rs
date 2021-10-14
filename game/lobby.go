@@ -38,6 +38,7 @@ var (
 		"english_gb": "English (GB)",
 		"english":    "English (US)",
 		"italian":    "Italian",
+		"danish":     "Danish",
 		"german":     "German",
 		"french":     "French",
 		"dutch":      "Dutch",
