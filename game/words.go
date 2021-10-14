@@ -16,6 +16,7 @@ var (
 		"english_gb": "en_gb",
 		"english":    "en_us",
 		"italian":    "it",
+		"danish":     "dk",
 		"german":     "de",
 		"french":     "fr",
 		"dutch":      "nl",
