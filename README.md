@@ -10,7 +10,7 @@
   <a href="https://liberapay.com/biosmarcel/donate">
     <img src="https://img.shields.io/liberapay/receives/biosmarcel.svg?logo=liberapay">
   </a>
-  <a href="https://heroku.com/deploy?template=https://github.com/scribble-rs/scribble.rs/tree/master">
+  <a href="https://heroku.com/deploy?template=https://github.com/martindamp/scribble.rs/tree/master">
     <img src="https://www.herokucdn.com/deploy/button.png">
   </a>
 </p>
@@ -43,7 +43,7 @@ stops receiving traffic for a while.
 
 Simply create an account at https://id.heroku.com/login and then click this link:
 
-https://heroku.com/deploy?template=https://github.com/scribble-rs/scribble.rs/tree/master
+https://heroku.com/deploy?template=https://github.com/martindamp/scribble.rs/tree/master
 
 ## Building / Running
 
