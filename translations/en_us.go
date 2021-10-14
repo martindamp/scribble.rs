@@ -49,7 +49,7 @@ func initEnglishTranslation() Translation {
 
 	translation.put("players", "Players")
 	translation.put("refresh", "Refresh")
-	translation.put("join-lobby", "Join Lobby")
+	translation.put("join-lobby", "Join Lobbys")
 
 	translation.put("message-input-placeholder", "Type your guesses and messages here")
 
